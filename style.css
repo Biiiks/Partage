@@ -1,21 +1,41 @@
 p{
     opacity: 100%;
+    font-size: 17px;
 }
 
 .bordure {
-    border-top: solid 1px blue;
+    border-style: inset ;
     opacity: 80%;
     background-color: aliceblue;
 }
 .fond {
     opacity: 70%;
-    background-color: yellow;
+    background-color:goldenrod;
+}
+.containers1{
+width:60%;
+display: block;
+height: 500px;
+margin: left;
+
+}
+.container2{
+    width :300px;
+
+    margin-top: none;
+    margin-bottom: none;
+    
 }
 h2{
     color: rgb(56, 42, 253);
-
+    font-size: 35px;
 }
-
+h3{
+    opacity: 100%;
+    font-size: 25px;
+    color: cadetblue;
+    margin-left: 30px;
+}
 ul {
 
 }
